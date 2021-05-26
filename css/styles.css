@@ -42,7 +42,7 @@
 
 .text-hello{
   color: #fff;
-  font-size: 10px;
+  font-size: 30px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -68,7 +68,7 @@
 
 .text-hello2{
   color: #fff;
-  font-size: 10px;
+  font-size: 30px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -93,7 +93,7 @@
 
 .text-hello2{
   color: #fff;
-  font-size: 10px;
+  font-size: 30px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -125,7 +125,7 @@
 
 .text-hello-left{
   color: #fff;
-  font-size: 10px;
+  font-size: 30px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -155,7 +155,7 @@
 
 .text-hello-right{
   color: #fff;
-  font-size: 10px;
+  font-size: 30px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -198,7 +198,7 @@
 
 .text-hello3{
   color: #fff;
-  font-size: 10px;
+  font-size: 30px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -230,7 +230,7 @@
   letter-spacing: 1px;
   border-radius: 5px;
   color: #fff;
-  font-size: 10px;
+  font-size: 30px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -277,7 +277,7 @@
 
 .text-hello-up{
   color: rgb(255, 255, 255);
-  font-size: 10px;
+  font-size: 30px;
   position: absolute;
   top: 50%;
   left: 50%;
